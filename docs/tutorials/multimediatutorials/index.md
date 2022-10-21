@@ -8,3 +8,9 @@ Die AMC stellt Moodle-Nutzer/innen zahlreiche Multimedia Tutorials auf YouTube z
 Den YouTube-Kanal samt allen Multimedia Tutorials der AMC finden Sie unter diesem Link: 
 
 [YouTube-Kanal der Academic Moodle Cooperation](https://www.youtube.com/c/AMCAcademicMoodleCooperation).
+
+:::tip
+
+Meine Änderung!
+
+:::
